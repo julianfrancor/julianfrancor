@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi all 👋 | My name is Julian Franco and I'm happy to welcome you to my GitHub profile
 
 <!--
 **julianfrancor/julianfrancor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
