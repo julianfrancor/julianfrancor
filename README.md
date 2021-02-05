@@ -1,5 +1,9 @@
 ### Hi all 👋 I'm Julian Franco and I'm very happy to welcome you to my GitHub profile!
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianfrancor&show_icons=true&theme=dracula&locale=en&layout=compact" alt="julianfrancor"/></p>
+
+![julianfrancor github stats](https://github-readme-stats.vercel.app/api?username=julianfrancor&show_icons=true&theme=dracula)
+
 <!--
 **julianfrancor/julianfrancor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
